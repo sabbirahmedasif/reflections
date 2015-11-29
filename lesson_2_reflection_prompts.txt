@@ -21,3 +21,5 @@ manually?
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 When you've updated your document, click "Next" and Caroline will go over how to commit the changes you’ve added to the staging area.
+
+bla bla bla again
